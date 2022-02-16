@@ -11,7 +11,7 @@ namespace Git_Test
         static void Main()
         {
             Class1 c = new Class1();
-            
+            Class1 c1 = new Class1();
         }
     }
 }
